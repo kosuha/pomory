@@ -7,7 +7,7 @@
 ```bash
 pomory/  
 ├── src/  
-|   ├── App.js  
+│   ├── App.js  
 │   ├── assets/  
 │   │   ├── images/  
 │   │   └── fonts/  
