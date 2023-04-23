@@ -4,25 +4,25 @@
 
 ### 프로젝트 구조
 
-pomory/
-├── src/
-|   ├── App.js
-│   ├── assets/
-│   │   ├── images/
-│   │   └── fonts/
-│   ├── components/
-│   │   ├── common/
-│   │   └── screens/
-│   ├── models/
-│   ├── viewModels/
-│   ├── navigation/
-│   ├── services/
-│   │   ├── api/
-│   │   └── storage/
-│   ├── utils/
-│   └── config/
-├── ...
-└── index.js
+pomory/  
+├── src/  
+|   ├── App.js  
+│   ├── assets/  
+│   │   ├── images/  
+│   │   └── fonts/  
+│   ├── components/  
+│   │   ├── common/  
+│   │   └── screens/  
+│   ├── models/  
+│   ├── viewModels/  
+│   ├── navigation/  
+│   ├── services/  
+│   │   ├── api/  
+│   │   └── storage/  
+│   ├── utils/  
+│   └── config/  
+├── ...  
+└── index.js  
 
 
 1. models/: 데이터 모델을 정의하고, 데이터 조작 및 유효성 검사 로직을 포함합니다.
