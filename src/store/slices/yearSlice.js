@@ -7,8 +7,8 @@ const yearSlice = createSlice({
   name: 'year',
   initialState: defaultYear,
   reducers: {
-    increment: (state, action) => {
-      return state + action.payload
+    increment: (state) => {
+      return state + 1
     },
     decrement: (state) => {
       return state - 1
