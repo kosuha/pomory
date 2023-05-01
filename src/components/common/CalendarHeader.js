@@ -41,7 +41,7 @@ export default CalendarHeader;
 
 const styles = StyleSheet.create({
   container: {
-    borderWidth: 1,
+    // borderWidth: 1,
     paddingLeft: 20,
   },
   top: {
